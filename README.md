@@ -4,6 +4,8 @@
 
 [Временные ряды.pdf](https://github.com/user-attachments/files/16872774/default.pdf)
 
+[Компьютерное зрение.pdf](https://github.com/user-attachments/files/17065744/default.pdf)
+
 [Математика для Data Science.pdf](https://github.com/user-attachments/files/16872778/Data.Science.pdf)
 
 [Основы аналитики.pdf](https://github.com/user-attachments/files/16872780/default.pdf)
