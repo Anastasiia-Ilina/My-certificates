@@ -1,6 +1,6 @@
 # My-certificates
 
-[Data Scientist. Диплом о профессиональной переподготовке.pdf]([https://github.com/user-attachments/files/24041590/Data.Scientist.pdf](https://github.com/Anastasiia-Ilina/My-certificates/blob/main/Data%20Scientist.%20Диплом%20о%20профессиональной%20переподготовке.pdf)) 
+[Data Scientist. Диплом о профессиональной переподготовке.pdf](https://github.com/Anastasiia-Ilina/My-certificates/blob/main/Data%20Scientist.%20Диплом%20о%20профессиональной%20переподготовке.pdf)
 
 [Аналитика больших данных.pdf](https://github.com/user-attachments/files/16872773/default.pdf)
 
