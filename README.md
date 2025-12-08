@@ -8,7 +8,7 @@
 
 [Компьютерное зрение.pdf](https://github.com/Anastasiia-Ilina/My-certificates/blob/main/Компьютерное%20зрение.pdf)
 
-[Математика для Data Science.pdf](https://github.com/user-attachments/files/16872778/Data.Science.pdf)
+[Математика для Data Science.pdf](https://github.com/Anastasiia-Ilina/My-certificates/blob/main/Математика%20для%20Data%20Science.pdf)
 
 [Основы аналитики.pdf](https://github.com/Anastasiia-Ilina/My-certificates/blob/main/Основы%20аналитики%20и%20аналитическое.pdf)
 
