@@ -1,7 +1,5 @@
 # My-certificates
 
-[Data Scientist - Диплом о проф. переподготовке]()
-
 [Аналитика больших данных.pdf](https://github.com/user-attachments/files/16872773/default.pdf)
 
 [Временные ряды.pdf](https://github.com/user-attachments/files/16872774/default.pdf)
